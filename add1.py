@@ -1,3 +1,3 @@
-def add(a,b,c)
-    return(a+b+c)
+def add(a,b,d)
+    return(a+b+d)
 print("5,5,5")
